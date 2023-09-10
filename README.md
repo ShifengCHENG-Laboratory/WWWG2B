@@ -70,5 +70,14 @@ This directory is specifically designed for wheat genomes and contains a special
 - Depth data visualization
 
 ---
+### 06.tagSNP_pipeline
+This directory contains scripts for selecting tagSNPs from a SNP matrix using HAPMAP data. These selected, minimal SNPs are capable of distinguishing between 1,000 samples and can be utilized for marker design.
+
+#### Key Features
+- TagSNP selection from SNP matrix
+- Utilizes HAPMAP data
+- Suitable for marker design in large datasets
+
+---
 
 Feel free to dive into each directory for more details on the individual codes and workflows.
