@@ -10,6 +10,8 @@ WWWG2B
 |-- 03.NAM_imputation_pipeline
 |-- 04.GWAS_pipeline
 |-- 05.HAPPE_for_wheat
+|-- 06.tagSNP_pipeline
+|-- 07.CNV_pipeline
 ```
 
 ---
@@ -80,4 +82,13 @@ This directory contains scripts for selecting tagSNPs from a SNP matrix using HA
 
 ---
 
-Feel free to dive into each directory for more details on the individual codes and workflows.
+---
+### 07.CNV_pipeline
+This directory contains scripts for calling Copy Number Variants (CNVs) from bam file.
+
+#### Key Features
+- CNV calling
+
+---
+
+Feel free to dive into each directory for more details on the individual codes and pipelines.
