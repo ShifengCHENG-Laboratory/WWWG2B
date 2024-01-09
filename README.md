@@ -82,7 +82,6 @@ This directory contains scripts for selecting tagSNPs from a SNP matrix using HA
 
 ---
 
----
 ### 07.CNV_pipeline
 This directory contains scripts for calling Copy Number Variants (CNVs) from bam file.
 
